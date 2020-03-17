@@ -23,7 +23,7 @@ require('tailwindcss-important')()
 ```
 
 ```js
-textColors: ['responsive', 'hover', 'important'],
+textColor: ['responsive', 'hover', 'important'],
 ```
 
 ### Purgecss
